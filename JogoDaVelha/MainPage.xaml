@@ -31,13 +31,13 @@
         <Button x:Name="btn1_1" Grid.Row="1" Grid.Column="1" Clicked="Button_Clicked"/>
         <Button x:Name="btn1_2" Grid.Row="1" Grid.Column="2" Clicked="Button_Clicked"/>
 
-        <Button Grid.Row="2" Grid.Column="0" Clicked="Button_Clicked"/>
-        <Button Grid.Row="2" Grid.Column="1" Clicked="Button_Clicked"/>
-        <Button Grid.Row="2" Grid.Column="2" Clicked="Button_Clicked"/>
+        <Button x:Name="btn2_0" Grid.Row="2" Grid.Column="0" Clicked="Button_Clicked"/>
+        <Button x:Name="btn2_1" Grid.Row="2" Grid.Column="1" Clicked="Button_Clicked"/>
+        <Button x:Name="btn2_2" Grid.Row="2" Grid.Column="2" Clicked="Button_Clicked"/>
 
-        <Button Grid.Row="3" Grid.Column="0" Clicked="Button_Clicked"/>
-        <Button Grid.Row="3" Grid.Column="1" Clicked="Button_Clicked"/>
-        <Button Grid.Row="3" Grid.Column="2" Clicked="Button_Clicked"/>
+        <Button x:Name="btn3_0" Grid.Row="3" Grid.Column="0" Clicked="Button_Clicked"/>
+        <Button x:Name="btn3_1" Grid.Row="3" Grid.Column="1" Clicked="Button_Clicked"/>
+        <Button x:Name="btn3_2" Grid.Row="3" Grid.Column="2" Clicked="Button_Clicked"/>
     </Grid>
 
 </ContentPage>
